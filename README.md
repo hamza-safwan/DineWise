@@ -1,6 +1,7 @@
 # DineWise
 DineWise is a one stop application for food businesses offering various functionalities like bookings, offered menus and associated price listings typically offered by food businesses. I am working to engineer a full fledge large scale, enterprise system backed by AI/ML intelligence to infuse features like Dynamic pricing and personalized food deals and delivery services etc
 
+
 ## Steps to run the app
 
 ### 1. Install `pipenv`
